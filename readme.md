@@ -25,12 +25,8 @@
 
 ### Rough interface
 
-![](img\login.png)
-
-![](img\face.png)
-
-![](img\monitor.png)
-
-![](img\monitor2.png)
-
-![](img\curve.png)
+![1](https://github.com/Alanaab/Java_electric-management/raw/master/img/login.png)
+![2](https://github.com/Alanaab/Java_electric-management/raw/master/img/face.png)
+![3](https://github.com/Alanaab/Java_electric-management/raw/master/img/monitor.png)
+![4](https://github.com/Alanaab/Java_electric-management/raw/master/img/monitor2.png)
+![5](https://github.com/Alanaab/Java_electric-management/raw/master/img/curve.png)
